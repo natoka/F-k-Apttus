@@ -1,6 +1,7 @@
-# F**k-Apttus
-The stories when work with Apttus
+# F**k Apttus
+# The stories when work with Apttus
 
+# Culture and work philosophy
 1. None knows the Package compoents
 1. None knows how to quote as can't understand the component, so
 1. Never close a case in tiem no metter have primer support or not, support always start bullshit a week, then start to work.
