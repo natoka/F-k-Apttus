@@ -11,5 +11,5 @@ When Apttus open the case detail page you will find out they are using DynamicCR
 
 # Product Design
 
-
+Case : CAS-06324-W5X6D3
 # Product Quality
