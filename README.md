@@ -35,15 +35,16 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortrunatly because of the product terrible quality you pretty relay on their services
-2. Response is very slow, every emerg
-3. 
-Case : CAS-06324-W5X6D3
+2. Response is very slow, every emergency, Production issues all rely on inhouse team, and if you doesn't have an experience inhouse Salesforce team, then good luck for you.
+3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
+4. Apttus using Dyn
+
 # Product Quality
 
 
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTU0NDQxMSw1NjAzMzgxMDYsLTE0ND
-Y4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjcyNDgzNjMsNTYwMzM4MTA2LC0xND
+Q2ODQwNTY1XX0=
 -->
