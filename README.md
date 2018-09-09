@@ -1,4 +1,3 @@
-
 # F**k Apttus
 > The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
 > This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
@@ -50,7 +49,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzND
-U3NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2
-MDMzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbLTE2Mzk0NjY0OTYsMTk0MzAyNjEwLDc1MD
+gyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIs
+NjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
 -->
