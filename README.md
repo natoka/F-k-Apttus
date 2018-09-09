@@ -23,11 +23,11 @@ Which I believe is the most important for a company, like Salesforce Honesty, Op
 In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and without a Premier support SLA)
 
 # Solution Maturity
-1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee upgrade such complex packa, better no upgrade after installation.  if you like to upgrade, good luck for you,
-
-2. None knows how to quote as can't understand the component, so
+1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee to upgrade such complex package, better no upgrade after installation.  if you like to upgrade, good luck for you,
+2. None knows how to quote as can't understand the component, price depending on how stupid the customer is.
 3. Never close a case in time no matter have primer support or not, support always starts bullshit a week, then start to work.
-4. The key factor for a CPQ project, is the person, Apttus old guys very familer with CPQ 
+4. The key factor for a CPQ project, is the person, Apttus old guys very familiar with CPQ terminologies and processes, so even with Apttus packages, you have a lot of customization which designed by Apttus implementation consultants.
+By end of the day, you will have more than 50% of the customized components beside Apttus packages, which make you have no reason to pay Apttus license, but you have to because of those customization relay on Apttus packages... good luck...
 
 # Product Design
 1. The data model is over-designed, in our org with has 298 Apttus objects, none from Apttus can explain the more 20% object purpose, and you only use up to 50 or the objects, others who know why they are there, then why we need those object in our Org?
@@ -49,7 +49,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1Nj
-gyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVd
-fQ==
+eyJoaXN0b3J5IjpbNzUwODI0OTQ2LC02ODM0NTc3MjAsNTI1MD
+I2MjkyLDU2NTY4Mjc0Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0x
+NDQ2ODQwNTY1XX0=
 -->
