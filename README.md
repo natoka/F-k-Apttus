@@ -29,18 +29,17 @@ In Apttus you can't find a document which describe the feature well, the culture
 # Business Requirement
 
 
-# Technical Requirement
-
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 
-
 # Product Design
-1. The data modle is over designed, in our org with has 298 Apttus object, none from Apttus can explain the more 20% object purpose, then why w
+1. The data modle is over designed, in our org with has 298 Apttus object, none from Apttus can explain the more 20% object purpose, and you only use upage to 50 or the objects, others who knows why they are there, then why we need those object in our Org?
+2. The product setup is design
 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODIwOTkwNCwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbLTE5OTU2ODc2MzUsLTE0NDY4NDA1NjVdfQ
+==
 -->
