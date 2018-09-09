@@ -1,6 +1,7 @@
+
 # F**k Apttus
-### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers
-### This is only my personal opinion, not related with the company I'd worked (PwC) or working (EF).
+### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
+### This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
 
 ## Introduction
 Some of the history of CPP -> CPQ history.
@@ -12,18 +13,19 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 
 **Apttus** founded in **2006**, Apttus is the category-defining Quote-to-Cash software company that drives the vital business process between the buyer’s interest in a purchase and the realization of revenue.
 
-**Godard Abel** founded **SteelBrick** in **2014**,  global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
+**Godard Abel** founded **SteelBrick** in **2014**, the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
 ![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
-My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project.
+My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge marketing demands.
 
 # Culture and work philosophy
-Which I believe is the most important for a company, like Salesforce Honesty, Open, Share and Collaborate, that why Salesforce.
-In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and with a Premier support SLA)
+Which I believe is the most important for a company, like Salesforce Honesty, Open, Share, Collaborate and Innovative, that why Salesforce.
+In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and without a Premier support SLA)
 
 # Solution Maturity
-1. None knows the Package components, in our org installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, if you like to upgrade, good luck for you.
-2. . None knows how to quote as can't understand the component, so
+1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee upgrade such complex packa, better no upgrade after installation.  if you like to upgrade, good luck for you,
+
+2. None knows how to quote as can't understand the component, so
 3. Never close a case in time no matter have primer support or not, support always starts bullshit a week, then start to work.
 
 # Product Design
@@ -44,8 +46,8 @@ In Apttus you can't find a document which describes the feature well, the cultur
 
 
 # Others:
-1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
+1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMz
-gxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbNTI1MDI2MjkyLDU2NTY4Mjc0Miw2NjI5Nj
+A4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
 -->
