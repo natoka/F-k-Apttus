@@ -1,3 +1,4 @@
+
 # F**k Apttus
 ### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers
 
@@ -11,7 +12,8 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platoform.
 
 **Apttus** founded in **2006**, Apttus is the category-defining Quote-to-Cash software company that drives the vital business process between the buyer’s interest in a purchase and the realization of revenue.
 
-**Godard Abel** founded **SteelBrick** in **2014**,  global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
+**Godard Abel** founded **SteelBrick** in **2014**,  global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
+![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
 My strong feeling after my 4 years worked with Apttus, if I have choice I won't work with Apttus for a second project.
 
@@ -38,3 +40,7 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 Case : CAS-06324-W5X6D3
 # Product Quality
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NDY4NDA1NjVdfQ==
+-->
