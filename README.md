@@ -1,4 +1,6 @@
 # F**k Apttus
+### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers
+
 ## Introduction
 Some of the history about CPP -> CPQ history.
 
@@ -10,8 +12,6 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platoform.
 **Apttus** founded in **2006**, Apttus is the category-defining Quote-to-Cash software company that drives the vital business process between the buyer’s interest in a purchase and the realization of revenue.
 
 **Godard Abel** founded **SteelBrick** in **2014**,  global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
-
-## The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers
 
 My strong feeling after my 4 years worked with Apttus, if I have choice I won't work with Apttus for a second project.
 
