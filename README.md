@@ -37,7 +37,7 @@ In Apttus you can't find a document which describe the feature well, the culture
 1. Everything is a price, without a premier support you can't get anything helps, unfortrunatly because of the product terrible quality you pretty relay on their services
 2. Response is very slow, every emergency, Production issues all rely on inhouse team, and if you doesn't have an experience inhouse Salesforce team, then good luck for you.
 3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
-4. Apttus using Dyn
+4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the the case number is Case : **CAS-06324-W5X6D3**, when you contacting with Apttus support, they asking, what's you case number, then "Humm..... CAS....", if you can , what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
 
 # Product Quality
 
@@ -45,6 +45,6 @@ In Apttus you can't find a document which describe the feature well, the culture
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjcyNDgzNjMsNTYwMzM4MTA2LC0xND
-Q2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTQ2NTI5NTk3Miw1NjAzMzgxMDYsLTE0ND
+Y4NDA1NjVdfQ==
 -->
