@@ -27,6 +27,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 
 2. None knows how to quote as can't understand the component, so
 3. Never close a case in time no matter have primer support or not, support always starts bullshit a week, then start to work.
+4. The key factor for a CPQ project, is the person, Apttus old guys very familer with CPQ 
 
 # Product Design
 1. The data model is over-designed, in our org with has 298 Apttus objects, none from Apttus can explain the more 20% object purpose, and you only use up to 50 or the objects, others who know why they are there, then why we need those object in our Org?
@@ -48,7 +49,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NjQwMjkwLDUyNTAyNjI5Miw1NjU2OD
-I3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
-
+eyJoaXN0b3J5IjpbLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1Nj
+gyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVd
+fQ==
 -->
