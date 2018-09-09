@@ -23,9 +23,8 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 # Solution Maturity
 1. None knows the Package compoents, in our org installed 12 packages just to make the CPQ features work, and there is no ways for you to upgrade them in LIVE safely, if you like to upgrade, good luck for you.
-
-1. None knows how to quote as can't understand the component, so
-1. Never close a case in tiem no metter have primer support or not, support always start bullshit a week, then start to work.
+2. . None knows how to quote as can't understand the component, so
+3. Never close a case in tiem no metter have primer support or not, support always start bullshit a week, then start to work.
 
 # Business Requirement
 
@@ -37,11 +36,11 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 
 # Product Design
-1. The data modle is 
+1. The data modle is over designed, in our org with has 298 Apttus object, none from Apttus can explain the more 20% object purpose, then why w
 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTk5MDUxNCwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbLTk2ODIwOTkwNCwtMTQ0Njg0MDU2NV19
 -->
