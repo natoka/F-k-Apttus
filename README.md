@@ -33,6 +33,10 @@ In Apttus you can't find a document which describe the feature well, the culture
 4. Exception and errors popup in the screen, the developers is very experience limited, even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The GREATE product team, every time the success manager and supports says report to the product team and wait for the response, then NEVER response, BUT we are in production, users need the feature everying, we can't wait, and feedback from Apttus is sorry, and appricate for your understading, what the f**, is 2018 now.
 
+# Customer Service
+1. Everything is a price, without a premier support you can't get anything helps, unfortrunatly because of the product terrible quality you pretty relay on their services
+2. Response is very slow, every emerg
+3. 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
@@ -40,6 +44,6 @@ Case : CAS-06324-W5X6D3
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAwOTA0NjgsNTYwMzM4MTA2LC0xND
-Q2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTY3OTU0NDQxMSw1NjAzMzgxMDYsLTE0ND
+Y4NDA1NjVdfQ==
 -->
