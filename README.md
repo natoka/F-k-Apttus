@@ -32,7 +32,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 3. The product catalog and shop cart also slow, this is a known issue within the industry, but Apttus never make this changes, no improvement.
 4. Exception and errors pop up in the screen, the developers is very experienced limited, even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The GREAT product team, every time the success manager and supports says report to the product team and wait for the response, then NEVER response, BUT we are in production, users need the feature everything, we can't wait, and feedback from Apttus is sorry, and appreciate your understanding, what the f**, is 2018 now.
-6. Lighting Ready isn't Lightning Exprience, Apttus never got chance to be Lightning Experince, if you worked or developed a product with 15 years old, you know how hard to make the changes u, if they are that's Steelbrick, now Salesforce CPQ.
+6. Lighting Ready isn't Lightning Exprience, Apttus never got chance to be Lightning Experince, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisite Steelbrick).
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
@@ -46,6 +46,6 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI0Mjk5MjAsNjYyOTYwODk1LDU2MD
-MzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMz
+gxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
