@@ -37,11 +37,11 @@ In Apttus you can't find a document which describe the feature well, the culture
 2. The product setup is design about 15 years ago, from after release the UI and process not much changes, now is 2018 and Lightning Experince, when using Apttus, like you are using Windows XP.
 3. The product catelog and shop cart also slow, this is a know issue within the induestry, but Apttus never make this changes, no improvement.
 4. Exception and errors popup in the screen, the developers is very experience limited, even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
-5. The GREATE product team, every time the sc
+5. The GREATE product team, every time the success manager and supports says report to the product team and wait for the response, then NEVER response, BUT we are in production, users need the feature everying, we can't wait, and feedback from Apttus is sorry, and appricate for your understading, what the f**, is 2018 now.
 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzY2NTQ3OSwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
 -->
