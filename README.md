@@ -1,5 +1,7 @@
 # F**k Apttus
 ### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers
+### This is only my personal opinion, not related with the company I'd worked (PwC) or working (EF).
+
 
 ## Introduction
 Some of the history of CPP -> CPQ history.
@@ -44,6 +46,6 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforce App!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Nj
-g0MDU2NV19
+eyJoaXN0b3J5IjpbODI4Njg2OTA3LDY2Mjk2MDg5NSw1NjAzMz
+gxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
