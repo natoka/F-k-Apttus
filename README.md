@@ -34,12 +34,12 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 # Product Design
 1. The data modle is over designed, in our org with has 298 Apttus object, none from Apttus can explain the more 20% object purpose, and you only use upage to 50 or the objects, others who knows why they are there, then why we need those object in our Org?
-2. The product setup is design
+2. The product setup is design about 15 years ago, from after release the UI and process not much changes, now is 2018 and Lightning Experince, when using Apttus, like you are using Windows XP.
+3. The product catelog and shop cart also slow, this is a know issue within the indues
 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU2ODc2MzUsLTE0NDY4NDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTI1NTkxOTEyNywtMTQ0Njg0MDU2NV19
 -->
