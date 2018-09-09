@@ -1,10 +1,10 @@
 
 # F**k Apttus
-### The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
-### This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
+> The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
+> This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
 
 ## Introduction
-Some of the history of CPP -> CPQ history.
+>Some of the history of CPP -> CPQ history.
 
 **BigMachines** is a software company, founded in **2000** by **Godard Abel** and Christopher Shutts, Oracle Corporation announced it was acquiring BigMachines on **10/24/2013** ($400M+). Oracle kept the product, now called CPQ Cloud.
 Name: BigMachines CPP 6.2.0 (Configure, Price, Propose CPP)
@@ -48,6 +48,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MDI2MjkyLDU2NTY4Mjc0Miw2NjI5Nj
-A4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbMjM3NjQwMjkwLDUyNTAyNjI5Miw1NjU2OD
+I3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
+
 -->
