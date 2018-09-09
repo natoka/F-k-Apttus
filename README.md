@@ -37,10 +37,11 @@ In Apttus you can't find a document which describe the feature well, the culture
 
 
 # Product Design
+1. The data modle is 
 
 Case : CAS-06324-W5X6D3
 # Product Quality
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbMTQyOTk5MDUxNCwtMTQ0Njg0MDU2NV19
 -->
