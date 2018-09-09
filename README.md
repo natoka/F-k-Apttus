@@ -1,5 +1,17 @@
 # F**k Apttus
-# The stories when work with Apttus
+The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION AGAIN.
+
+# The stories when working with Apttus during my past 4 years, which is the worst 4 years in my whole 9 years career in Salesforce projects.
+
+Business Requirement
+
+
+Technical Requirement
+
+Solution Maturity
+
+Vendor's Background 
+
 
 # Culture and work philosophy
 1. None knows the Package compoents
