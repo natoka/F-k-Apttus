@@ -30,8 +30,8 @@ In Apttus you can't find a document which describes the feature well, the cultur
 5. Because of those customizations made the package upgrade even though complex and risky.
 
 # Product Design
-1. The data model is over-designed, in our org with has 298 Apttus objects, none from Apttus can explain the more 20% object purpose, and you only use up to 50 or the objects, others who know why they are there, then why we need those object in our Org?
-2. The product setup is designed about 15 years ago, from after release the UI and process not many changes, now is 2018 and Lightning Experience, when using Apttus, like you are using Windows XP.
+1. The data model is over-designed, in our org with has 298 Apttus objects, some org with about 500 object as I know, none from Apttus can explain the more 20% object purpose, and you only use up to 50 of the objects, others who know why they are there, then why we need those object in our Org?
+2. The product is designed about 15 years ago, from that on the UI and process not many changes, if you cao, now is 2018 and Lightning Experience, when using Apttus, like you are using Windows XP.
 3. The product catalog and shop cart also slow, this is a known issue within the industry, but Apttus never make this changes, no improvement.
 4. Exception and errors pop up in the screen, the developers is very experienced limited, even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The GREAT product team, every time the success manager and supports says report to the product team and wait for the response, then NEVER response, BUT we are in production, users need the feature everything, we can't wait, and feedback from Apttus is sorry, and appreciate your understanding, what the f**, is 2018 now.
@@ -49,7 +49,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0NjY0OTYsMTk0MzAyNjEwLDc1MD
-gyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIs
-NjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbMTkyMDA2OTkyNiwxOTQzMDI2MTAsNzUwOD
+I0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0Miw2
+NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
 -->
