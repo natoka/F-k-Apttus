@@ -33,7 +33,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 1. The data model is over-designed, in our org with has 298 Apttus objects, some org with about 500 object as I know, none from Apttus can explain the more 20% object purpose, and you only use up to 50 of the objects, others who know why they are there, then why we need those object in our Org?
 2. The product is designed about 15 years ago, from that on the UI and process not many changes, if you compare Salesforce UI and Lightning then you know what's I'm mean, now is 2018 and Lightning Experience, when using Apttus, like you are using Windows XP.
 3. The product catalog and shop cart also slow, this is a known issue within the whole CPQ industry, but Apttus never make this changes, no improvement.
-4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1.2 yer), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
+4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The GREAT product team, every time the success manager and supports says report to the product team and wait for the response, then NEVER response, BUT we are in production, users need the feature everything, we can't wait, and feedback from Apttus is sorry, and appreciate your understanding, what the f**, is 2018 now.
 6. Lighting Ready isn't Lightning Exprience, Apttus never got chance to be Lightning Experince, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisite Steelbrick).
 
@@ -49,7 +49,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTUyNjY1OSwxOTQzMDI2MTAsNzUwOD
-I0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0Miw2
-NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbOTU4NDEzMDE5LDE5NDMwMjYxMCw3NTA4Mj
+Q5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2
+Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
