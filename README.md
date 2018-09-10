@@ -57,12 +57,13 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 
-**andard Case Comments:
+
+#**Standard Case Comments:**
 Greetings of the day!
 
 This is regarding your Apttus Case # CAS-06605-B4C2V0 Exceptions when generating the quote
 
-As per Apttus Technical Support policy, we would be unable to share the debug logs.
+As per Apttus Technical Support policy, **we would be unable to share the debug logs.**
 
 While we are working with our Tier 2 team, we need following details to take this forward.
 
@@ -77,8 +78,8 @@ Please feel free to reach out to us in case of any further queries. We would be 
 
 We appreciate your Business with Apttus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MT
-kyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1
-MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMD
-YsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMD
+I3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYs
+LTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MD
+g5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
