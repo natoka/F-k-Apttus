@@ -44,14 +44,18 @@ In Apttus you can't find a document which describes the feature well, the cultur
 4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
 
 # Product Quality
-![Exceptions an](https://lh3.googleusercontent.com/NyvqHC69NkFMMM0FREssMTpZpHX5s62w1QubGb7VhzJNn0uc6faJbf2xZlfZowdfRNzQ3ZHVi0d5)
+1. Exceptions every where
+![Exceptions any where](https://lh3.googleusercontent.com/NyvqHC69NkFMMM0FREssMTpZpHX5s62w1QubGb7VhzJNn0uc6faJbf2xZlfZowdfRNzQ3ZHVi0d5)
 
+2. Upgrade without notificaitons, they only way you fingure this out is the when user report the issues, unfortrunatlly that's too late.
+3. 
+4. 
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NTcwMjMsNDA3MTkyMTE2LDE5NDMwMj
-YxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1
-NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1Nj
-VdfQ==
+eyJoaXN0b3J5IjpbMTgyNjE1NDI2Niw0MDcxOTIxMTYsMTk0Mz
+AyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1
+NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MD
+U2NV19
 -->
