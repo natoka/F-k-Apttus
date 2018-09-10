@@ -42,7 +42,8 @@ In Apttus you can't find a document which describes the feature well, the cultur
 2. The response is very slow, every emergency, Production issues all rely on the in-house team, and if you don't have an experience in-house Salesforce team, then good luck for you.
 3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
 4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
-5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packges, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
+5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packages, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
+6. 
 
 # Product Quality
 1. Exceptions every where
@@ -56,9 +57,28 @@ In Apttus you can't find a document which describes the feature well, the cultur
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 
+**andard Case Comments:
+Greetings of the day!
+
+This is regarding your Apttus Case # CAS-06605-B4C2V0 Exceptions when generating the quote
+
+As per Apttus Technical Support policy, we would be unable to share the debug logs.
+
+While we are working with our Tier 2 team, we need following details to take this forward.
+
+- We request you to create a user with email rgandhi@apttus.com with X-Author for Contracts System Admin permissions.  
+- Also, please share the URL of the record on which we are getting the same error when we finalize the quote.  
+- Please provide us permission to create a clone of given template for testing purpose.  
+- Also, we want to confirm if the same error is arising when we use any other template other than “EnglishFirst-Russian-Order-Invoice”
+
+We look forward to hear from you on the above mentioned details.
+
+Please feel free to reach out to us in case of any further queries. We would be happy to help.
+
+We appreciate your Business with Apttus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODI4NDYyMCwtMjEwMjc5NjAwNyw0MD
-cxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIw
-LDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzOD
-EwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MT
+kyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1
+MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMD
+YsLTE0NDY4NDA1NjVdfQ==
 -->
