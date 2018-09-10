@@ -77,9 +77,17 @@ We look forward to hear from you on the above mentioned details.
 Please feel free to reach out to us in case of any further queries. We would be happy to help.
 
 We appreciate your Business with Apttus.
+
+SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
+FROM Apttus_Config2__ProductConfiguration__c
+WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
+    AND Apttus_Config2__Status__c != :tmpVar2
+    AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
+ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMD
-I3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYs
-LTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MD
-g5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsND
+QyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYx
+MCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1Nj
+gyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVd
+fQ==
 -->
