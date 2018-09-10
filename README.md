@@ -47,14 +47,16 @@ In Apttus you can't find a document which describes the feature well, the cultur
 1. Exceptions every where
 ![Exceptions any where](https://lh3.googleusercontent.com/NyvqHC69NkFMMM0FREssMTpZpHX5s62w1QubGb7VhzJNn0uc6faJbf2xZlfZowdfRNzQ3ZHVi0d5)
 
-2. Upgrade without notificaitons, they only way you fingure this out is the when user report the issues, unfortrunatlly that's too late.
-3. 
-4. 
+2. External service side (like xauthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late.
+3. Waste spaces
+
+5. 
+
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjE1NDI2Niw0MDcxOTIxMTYsMTk0Mz
+eyJoaXN0b3J5IjpbMjEyNzYyNjQ4Miw0MDcxOTIxMTYsMTk0Mz
 AyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1
 NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MD
 U2NV19
