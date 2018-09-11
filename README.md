@@ -46,8 +46,8 @@ In Apttus you can't find a document which describes the feature well, the cultur
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 
 # Product Quality
-1. Exceptions every where
-
+1. Exceptions anywhere
+The developers should be been trained to write a professional code, if see Apttus code you know what's low quality software development, and exception handling, you can see exception anywhere, even though very posti
 ![enter image description here](https://lh3.googleusercontent.com/J1o1t5t7O_sp5NKR1-DuL5Y019PDtvxsahloS9ebiNhviEO17MA4nUj18eSYNvIjJPSSETyXGu1R)
 
 3. External service side (like xauthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late.
@@ -87,9 +87,10 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNz
-MzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1
-NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQzMDI2MTAsNz
-UwODI0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0
-Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbNTM5OTUxNDAwLC01MjQ4NDgyMzUsMjA2NT
+k4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAz
+NDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMT
+k0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5
+Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Nj
+g0MDU2NV19
 -->
