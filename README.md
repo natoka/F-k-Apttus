@@ -31,9 +31,9 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 1. The data model is over-designed, in our org with has 298 Apttus objects, some org with about 500 object as I know, none from Apttus can explain more than 20% object purpose, and you only use up to 50 of the objects, others who knows why they are there in your org, then why we need those object in our Org?
 2. The product is designed about 15 years ago, from that on the UI and process not many changes, if you compare Salesforce UI and Lightning then you know what's I'm mean, today is 2018 and Lightning Experience, when using Apttus, like you are using Windows XP.
 3. The product catalog and shop cart also slow and performance terribly, this is a known issue within the whole CPQ industry, but Apttus never make this changes, no improvement.
-4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
-5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can't wait, but feedback from Apttus is "sorry, and appreciate your understanding", what the f**k, is 2018 now.
-6. Lighting Ready isn't Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
+4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year experienced developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
+5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can wait or not, the  feedback from Apttus is "Sorry, and appreciate your understanding", what the f**k, is 2018 now.
+6. Lighting Ready isn't meaning Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
@@ -93,10 +93,10 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUxNDIwMzIsLTE3NTE4NjM0ODYsLT
-UyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNzMzNzMxMzg4LC0xNjYw
-MjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1NDM0LC0yMTAyNzk2MD
-A3LDQwNzE5MjExNiwxOTQzMDI2MTAsNzUwODI0OTQ2LC02ODM0
-NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0Miw2NjI5NjA4OTUsNT
-YwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ2NDY0OCwtMTc1MTg2MzQ4NiwtNT
+I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
+MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
+csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
+NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
+AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
