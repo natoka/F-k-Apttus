@@ -17,8 +17,8 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge CPQ marketing demands.
 
 # Culture and work philosophy
-Which I believe is the most important for a company, like Salesforce Honesty, Open, Share, Collaborate and Innovative, that why Salesforce.
-In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and without a Premier support SLA)
+1. Which I believe is the most important for a company, like Salesforce Honesty, Open, Share, Collaborate and Innovative, that why Salesforce.
+2. In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and the Premier support without a feasible SLA)
 
 # Solution Maturity
 1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee to upgrade such complex package safely, and once upgrade failure, there is no way to rollback, better no upgrade after installation. if you like to upgrade, good luck for you,
@@ -93,10 +93,10 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NzExNTYyLC0xNzUxODYzNDg2LC01Mj
-Q4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIx
-ODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNy
-w0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3
-NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MD
-MzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbMTQ3OTM0MDYzMywtMTc1MTg2MzQ4NiwtNT
+I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
+MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
+csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
+NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
+AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
