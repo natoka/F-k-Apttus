@@ -47,7 +47,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 # Product Quality
 1. Exceptions every where
-
+![enter image description here](https://lh3.googleusercontent.com/J1o1t5t7O_sp5NKR1-DuL5Y019PDtvxsahloS9ebiNhviEO17MA4nUj18eSYNvIjJPSSETyXGu1R)
 
 3. External service side (like xauthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late.
 4. Waste spaces, the only way is to overwrite the CSS file to make to cart workable. unfortunately still wasn't half of the screen and no way to make additional changes.
@@ -85,7 +85,7 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgxODQ1OTEsLTE3MzM3MzEzODgsLT
+eyJoaXN0b3J5IjpbLTEyMTg0ODQyNTMsLTE3MzM3MzEzODgsLT
 E2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3
 OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLT
 Y4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5
