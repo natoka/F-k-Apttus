@@ -57,13 +57,13 @@ The developers should be been trained to write a professional code if see Apttus
 ![enter image description here](https://lh3.googleusercontent.com/Re8U9gh32D4g8w9POFJMkrJqyct1shFk5nLOSJMv6LeBih0tVaCRCoF4YLT54qq5tkm6lpHSl41U)
 
 4. Low effecitve SOQLs
-
-        SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
+SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
 FROM Apttus_Config2__ProductConfiguration__c
 WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND Apttus_Config2__Status__c != :tmpVar2
-    AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
+    **AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL**))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
+if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 
 
 
@@ -93,7 +93,7 @@ We appreciate your Business with Apttus.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTEwOTUwNCwtNTI0ODQ4MjM1LDIwNj
+eyJoaXN0b3J5IjpbMTI3OTIxOTc2OCwtNTI0ODQ4MjM1LDIwNj
 U5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYw
 MzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LD
 E5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYy
