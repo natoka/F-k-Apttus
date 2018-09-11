@@ -21,7 +21,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 2. In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and the Premier support without a feasible SLA)
 
 # Solution Maturity
-1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee to upgrade such complex package safely, and once upgrade failure, there is no way to rollback, better no upgrade after installation. if you like to upgrade, good luck for you,
+1. None knows the Package components, in our Org Apttus installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believe me no human can guarantee to upgrade such complex package safely, and once upgrade failure, there is no way to rollback, better no upgrade after installation. if you like to upgrade, good luck for you,
 2. None knows how to quote as none understand the components, price always depending on how stupid/smart (none smart when you start talking price with Apttus) the customer is (good luck to you).
 3. Never close a case in time no matter have primer support or not, the issue in LIVE or sandbox, the issue is OOTB or customized built, support always starts bullshit a week, then start to work.
 4. The key factor for a CPQ project is the person, I have to say Apttus guys very familiar with CPQ terminologies and processes, so even with Apttus packages, you have to do a lot of customization which designed by Apttus implementation consultants. By end of the day, you will have more than 50% of the customized components beside Apttus packages, which make you have no reason to pay Apttus license, but you have to because of those customization relay on Apttus packages... good luck...
@@ -93,7 +93,7 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTM0MDYzMywtMTc1MTg2MzQ4NiwtNT
+eyJoaXN0b3J5IjpbLTk1NzU3MjU2MiwtMTc1MTg2MzQ4NiwtNT
 I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
 MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
 csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
