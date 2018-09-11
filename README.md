@@ -1,13 +1,12 @@
 # F**k Apttus
-> The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
 > This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
+> The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
 
 ## Introduction
 >Some of the history of CPP -> CPQ history.
 
 **BigMachines** is a software company, founded in **2000** by **Godard Abel** and Christopher Shutts, Oracle Corporation announced it was acquiring BigMachines on **10/24/2013** ($400M+). Oracle kept the product, now called CPQ Cloud.
 Name: BigMachines CPP 6.2.0 (Configure, Price, Propose CPP)
-First Release: 3/31/2006
 Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 
 **Apttus** founded in **2006**, Apttus is the category-defining Quote-to-Cash software company that drives the vital business process between the buyer’s interest in a purchase and the realization of revenue.
@@ -15,7 +14,7 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 **Godard Abel** founded **SteelBrick** in **2014**, the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
 ![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
-My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge marketing demands.
+My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge CPQ marketing demands.
 
 # Culture and work philosophy
 Which I believe is the most important for a company, like Salesforce Honesty, Open, Share, Collaborate and Innovative, that why Salesforce.
@@ -94,10 +93,10 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDE2NjE0NCwtMTc1MTg2MzQ4NiwtNT
-I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
-MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
-csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
-NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
-AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbNjE3NzExNTYyLC0xNzUxODYzNDg2LC01Mj
+Q4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIx
+ODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNy
+w0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3
+NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MD
+MzODEwNiwtMTQ0Njg0MDU2NV19
 -->
