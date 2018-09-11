@@ -51,7 +51,7 @@ NOT AT ALL for me.
 #**Standard Case Comments:**
 Greetings of the day!
 
-This is regarding your Apttus Case # CAS-06605-B4C2V0 Exceptions when generating the quote
+This is regarding your Apttus Case # CAS-06124-W0X6D3 Exceptions when generating the quote
 
 As per Apttus Technical Support policy, **we would be unable to share the debug logs.**
 
@@ -60,7 +60,7 @@ While we are working with our Tier 2 team, we need following details to take thi
 - We request you to create a user with email rgandhi@apttus.com with X-Author for Contracts System Admin permissions.  
 - Also, please share the URL of the record on which we are getting the same error when we finalize the quote.  
 - Please provide us permission to create a clone of given template for testing purpose.  
-- Also, we want to confirm if the same error is arising when we use any other template other than “EnglishFirst-Russian-Order-Invoice”
+- Also, we want to confirm if the same error is arising when we use any other template other than “Russian-Order-Invoice”
 
 We look forward to hear from you on the above mentioned details.
 
@@ -90,10 +90,10 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY3NjU4MDEsLTE3NTE4NjM0ODYsLT
-UyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNzMzNzMxMzg4LC0xNjYw
-MjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1NDM0LC0yMTAyNzk2MD
-A3LDQwNzE5MjExNiwxOTQzMDI2MTAsNzUwODI0OTQ2LC02ODM0
-NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0Miw2NjI5NjA4OTUsNT
-YwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
+eyJoaXN0b3J5IjpbNDQwOTgzNzI5LC0xNzU2NzY1ODAxLC0xNz
+UxODYzNDg2LC01MjQ4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzcz
+MTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNC
+wtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgy
+NDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNj
+YyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
 -->
