@@ -24,11 +24,11 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 1. None knows the Package components, in our Org Apttus installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believe me, no human can guarantee to upgrade such complex package safely, and once upgrade failure, there is no way to rollback, better no upgrade after installation. if you like to upgrade, good luck for you,
 2. None knows how to quote as none understand the components, price always depending on how stupid/smart (none smart when you start talking price with Apttus) the customer is (good luck to you).
 3. Never close a case in time no matter have primer support or not, the issue in the LIVE or in the sandbox, the issue is OOTB or customized built, support always starts bullshit a week, then start to work.
-4. The key factor for a CPQ project is the CPQ consultant, I have to say Apttus guys very familiar with CPQ terminologies and processes, so even with Apttus packages, you have to do a lot of customization which designed by Apttus implementation consultants. By end of the day, you will have more than 50% of the customized components beside Apttus packages, which make you have no reason to pay Apttus license, but you have to because of those customization relay on Apttus packages... good luck...
+4. The key factor for a CPQ project is the CPQ consultants, I have to say Apttus guys very familiar with CPQ terminologies and processes, so even with Apttus packages, you have to do a lot of customization which designed by Apttus implementation consultants. By end of the day, you will have more than 50% of the customized components beside Apttus packages, which make you have no reason to pay Apttus license, but you have to because of those customization relay on Apttus packages... good luck...
 5. Because of those customizations made the package upgrade even though complex and risky.
 
 # Product Design
-1. The data model is over-designed, in our org with has 298 Apttus objects, some org with about 500 object as I know, none from Apttus can explain the more 20% object purpose, and you only use up to 50 of the objects, others who know why they are there, then why we need those object in our Org?
+1. The data model is over-designed, in our org with has 298 Apttus objects, some org with about 500 object as I know, none from Apttus can explain more than 20% object purpose, and you only use up to 50 of the objects, others who know why they are there, then why we need those object in our Org?
 2. The product is designed about 15 years ago, from that on the UI and process not many changes, if you compare Salesforce UI and Lightning then you know what's I'm mean, now is 2018 and Lightning Experience, when using Apttus, like you are using Windows XP.
 3. The product catalog and shop cart also slow, this is a known issue within the whole CPQ industry, but Apttus never make this changes, no improvement.
 4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
@@ -93,7 +93,7 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODMzNDEzLC0xNzUxODYzNDg2LC01Mj
+eyJoaXN0b3J5IjpbLTIwNDY3NjU0LC0xNzUxODYzNDg2LC01Mj
 Q4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIx
 ODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNy
 w0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3
