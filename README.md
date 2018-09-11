@@ -21,7 +21,6 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 Which I believe is the most important for a company, like Salesforce Honesty, Open, Share, Collaborate and Innovative, that why Salesforce.
 In Apttus you can't find a document which describes the feature well, the culture is very protective and old, also very hard to find help from Apttus, you have to pay for the premier supports every time (and without a Premier support SLA)
 
-
 # Solution Maturity
 1. None knows the Package components, in our Org, installed 12 packages just to make the CPQ features work, and there are no ways for you to upgrade them in LIVE safely, believer me no human can guarantee to upgrade such complex package safely, and once upgrade failure, there is no way to rollback, better no upgrade after installation. if you like to upgrade, good luck for you,
 2. None knows how to quote as none understand the components, price always depending on how stupid/smart (none smart when you start talking price with Apttus) the customer is (good luck to you).
@@ -43,7 +42,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
 4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
 5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packages, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
-6. 
+6. Aptt
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 # Product Quality
 1. Exceptions every where
@@ -87,9 +86,9 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI2NjMwNzgsMjA2NTk4ODkwMSwtMT
-czMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNiw0NDI5
-NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAyNjEwLD
-c1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3
-NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbLTQ1MTg3MjY3LDIwNjU5ODg5MDEsLTE3Mz
+M3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0
+MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NT
+A4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQy
+LDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
