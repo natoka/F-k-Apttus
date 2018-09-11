@@ -57,7 +57,7 @@ The developers should be been trained to write a professional code if see Apttus
 
 
 # Others:
-1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
+1. When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 
 
 #**Standard Case Comments:**
@@ -87,10 +87,10 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjg3MTUyOCwtNTI0ODQ4MjM1LDIwNj
-U5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYw
-MzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LD
-E5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYy
-OTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0ND
-Y4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbNTkzNzU4MDQ4LC01MjQ4NDgyMzUsMjA2NT
+k4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAz
+NDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMT
+k0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5
+Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Nj
+g0MDU2NV19
 -->
