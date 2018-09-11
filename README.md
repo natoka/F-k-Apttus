@@ -45,7 +45,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 6. Apttus asked you send emails to documentation@apttus.com if you have any question or need help, but once you send them an email, you will get the following auto-reply.
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 
-7. Can you feel the heart of the customer service? the only way customer service make the customer happy is response fast, and fix the issue ASAP, not the pretended words, are you feel happy with the following comments?
+7. Can you feel the heart of the customer service? the only way customer service make the customer happy is response fast, and fix the issue ASAP, not the pretended words, are you feel happy with the following comments
 
 NOT AT ALL for me.
 ```
@@ -94,10 +94,10 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNTEyNDEzLC0xNzUxODYzNDg2LC01Mj
-Q4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIx
-ODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNy
-w0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3
-NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MD
-MzODEwNiwtMTQ0Njg0MDU2NV19
+eyJoaXN0b3J5IjpbLTg0NDE2NjE0NCwtMTc1MTg2MzQ4NiwtNT
+I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
+MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
+csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
+NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
+AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
 -->
