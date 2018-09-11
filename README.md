@@ -45,32 +45,8 @@ In Apttus you can't find a document which describes the feature well, the cultur
 6. Apttus asked you send emails to documentation@apttus.com if you have any question or need help, but once you send them an email, you will get the following auto-reply.
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 
-# Product Quality
-1. Exceptions anywhere
-The developers should be been trained to write a professional code if see Apttus code you know what's low-quality software development, and exception handling, you can see exception anywhere, even though very positive process and operations.
-
-![enter image description here](https://lh3.googleusercontent.com/J1o1t5t7O_sp5NKR1-DuL5Y019PDtvxsahloS9ebiNhviEO17MA4nUj18eSYNvIjJPSSETyXGu1R)
-
-2. External service side (like xAuthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late, LIVE system, Apttus can't understand what's Production environment.
-3. Waste spaces, the only way is to overwrite the CSS file to make to cart workable. unfortunately still wasn't half of the screen and no way to make additional changes.
-
-![enter image description here](https://lh3.googleusercontent.com/Re8U9gh32D4g8w9POFJMkrJqyct1shFk5nLOSJMv6LeBih0tVaCRCoF4YLT54qq5tkm6lpHSl41U)
-
-4. Low effecitve SOQLs, developers don't have much experiences in SOQL and best practive, you can see following SOQL anywhere, which also touches the limits easily.
+7. Can you feel the heart of the customer service?
 ```
-SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
-FROM Apttus_Config2__ProductConfiguration__c
-WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
-AND Apttus_Config2__Status__c != :tmpVar2
-**AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL**))
-ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
-```
-if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
-
-# Others:
-When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
-
-
 #**Standard Case Comments:**
 Greetings of the day!
 
@@ -90,15 +66,36 @@ We look forward to hear from you on the above mentioned details.
 Please feel free to reach out to us in case of any further queries. We would be happy to help.
 
 We appreciate your Business with Apttus.
+```
+# Product Quality
+1. Exceptions anywhere
+The developers should be been trained to write a professional code if see Apttus code you know what's low-quality software development, and exception handling, you can see exception anywhere, even though very positive process and operations.
 
+![enter image description here](https://lh3.googleusercontent.com/J1o1t5t7O_sp5NKR1-DuL5Y019PDtvxsahloS9ebiNhviEO17MA4nUj18eSYNvIjJPSSETyXGu1R)
 
+2. External service side (like xAuthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late, LIVE system, Apttus can't understand what's Production environment.
+3. Waste spaces, the only way is to overwrite the CSS file to make to cart workable. unfortunately still wasn't half of the screen and no way to make additional changes.
 
+![enter image description here](https://lh3.googleusercontent.com/Re8U9gh32D4g8w9POFJMkrJqyct1shFk5nLOSJMv6LeBih0tVaCRCoF4YLT54qq5tkm6lpHSl41U)
 
+4. Low effective SOQLs, developers don't have much experiences in SOQL and best practive, you can see following SOQL anywhere, which also touches the limits easily.
+```
+SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
+FROM Apttus_Config2__ProductConfiguration__c
+WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
+AND Apttus_Config2__Status__c != :tmpVar2
+**AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL**))
+ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
+```
+if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
+
+# Others:
+When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzYwODU3MiwtMTc1MTg2MzQ4NiwtNT
-I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
-MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
-csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
-NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
-AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTg3OTcxNDIxLC0xNzUxODYzNDg2LC01Mj
+Q4NDgyMzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIx
+ODA4MCwtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNy
+w0MDcxOTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3
+NzIwLDUyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MD
+MzODEwNiwtMTQ0Njg0MDU2NV19
 -->
