@@ -89,14 +89,11 @@ AND Apttus_Config2__Status__c != :tmpVar2
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
-
-# Others:
-When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDYyMTc3NywtMTc1MTg2MzQ4NiwtNT
-I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
-MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
-csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
-NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1Nj
-AzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY3NjU4MDEsLTE3NTE4NjM0ODYsLT
+UyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNzMzNzMxMzg4LC0xNjYw
+MjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1NDM0LC0yMTAyNzk2MD
+A3LDQwNzE5MjExNiwxOTQzMDI2MTAsNzUwODI0OTQ2LC02ODM0
+NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0Miw2NjI5NjA4OTUsNT
+YwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
 -->
