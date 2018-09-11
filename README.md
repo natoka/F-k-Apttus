@@ -42,8 +42,9 @@ In Apttus you can't find a document which describes the feature well, the cultur
 3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
 4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
 5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packages, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
-6. Aptt
+6. Apttus asked you send emails to documentation@apttus.com if you have any question or need help, but once you send them an email, you will get the following auto-reply.
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
+
 # Product Quality
 1. Exceptions every where
 
@@ -86,9 +87,9 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTg3MjY3LDIwNjU5ODg5MDEsLTE3Mz
-M3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0
-MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NT
-A4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQy
-LDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTUyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNz
+MzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1
+NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQzMDI2MTAsNz
+UwODI0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLDU2NTY4Mjc0
+Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQwNTY1XX0=
 -->
