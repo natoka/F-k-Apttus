@@ -52,8 +52,9 @@ In Apttus you can't find a document which describes the feature well, the cultur
 
 3. External service side (like xauthor generator) upgrade without notifications, they only way you figure this out is the when user report the issues, unfortunately, that's too late.
 4. Waste spaces, the only way is to overwrite the CSS file to make to cart workable. unfortunately still wasn't half of the screen and no way to make additional changes.
+
 ![enter image description here](https://lh3.googleusercontent.com/Re8U9gh32D4g8w9POFJMkrJqyct1shFk5nLOSJMv6LeBih0tVaCRCoF4YLT54qq5tkm6lpHSl41U)
-5. 
+
 
 # Others:
 1. When Apttus open the case detail page you will find out they are using DynamicCRM, what's the f**k!! you are selling Salesforc
@@ -86,7 +87,7 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYwMDA3NTEsMjA2NTk4ODkwMSwtMT
+eyJoaXN0b3J5IjpbLTIwNDI2NjMwNzgsMjA2NTk4ODkwMSwtMT
 czMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNiw0NDI5
 NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAyNjEwLD
 c1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3
