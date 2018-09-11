@@ -37,9 +37,9 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
-2. The response is very slow, every emergency, Production issues all rely on the in-house team, and if you don't have an experience in-house Salesforce team, then good luck for you.
+2. The response is very slow, any emergency, Production issues all rely on the in-house team, and if you don't have an experience in-house Salesforce team, then good luck for you.
 3. You know what's Salesforce support right? Aptttus support is the other side quality and service, be sure not Salesforce style.
-4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
+4. Apttus using Dynamic CRM for their customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus actually saying "Stupid!! DON'T open case!!".
 5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packages, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
 6. Apttus asked you send emails to documentation@apttus.com if you have any question or need help, but once you send them an email, you will get the following auto-reply.
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
@@ -93,7 +93,7 @@ if you have more than 200K records in the Apttus_Config2__ProductConfiguration__
 # Others:
 When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ2NDY0OCwtMTc1MTg2MzQ4NiwtNT
+eyJoaXN0b3J5IjpbLTYyMjg2MDM1NywtMTc1MTg2MzQ4NiwtNT
 I0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAy
 MTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMD
 csNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1
