@@ -44,7 +44,7 @@ In Apttus you can't find a document which describes the feature well, the cultur
 4. Apttus using Dynamic for the customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus asking "Stupid!! DON'T open case!!".
 5. Debug Log, debug log is everything for Salesforce issue debug, as Apttus is managed packages, there is no way to get any debug log, and all the issue fix all rely on Apttus, you can't do anything.
 6. 
-
+![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 # Product Quality
 1. Exceptions every where
 ![Exceptions any where](https://lh3.googleusercontent.com/NyvqHC69NkFMMM0FREssMTpZpHX5s62w1QubGb7VhzJNn0uc6faJbf2xZlfZowdfRNzQ3ZHVi0d5)
@@ -85,9 +85,9 @@ WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
     AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsND
-QyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYx
-MCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1Nj
-gyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1NjVd
-fQ==
+eyJoaXN0b3J5IjpbLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLT
+IxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTky
+MTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1Mj
+UwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYs
+LTE0NDY4NDA1NjVdfQ==
 -->
