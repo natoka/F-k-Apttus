@@ -55,9 +55,19 @@ The developers should be been trained to write a professional code if see Apttus
 
 ![enter image description here](https://lh3.googleusercontent.com/Re8U9gh32D4g8w9POFJMkrJqyct1shFk5nLOSJMv6LeBih0tVaCRCoF4YLT54qq5tkm6lpHSl41U)
 
+4. Low effecitve SOQLs
+
+        SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
+FROM Apttus_Config2__ProductConfiguration__c
+WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
+    AND Apttus_Config2__Status__c != :tmpVar2
+    AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
+ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
+
+
 
 # Others:
-1. When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
+When Apttus open the case detail page you will find out they are using Dynamic CRM, as a Salesforce ISV partner, Apttus using Dynamic CRM, are you saying Salesforce is a shit?
 
 
 #**Standard Case Comments:**
@@ -80,14 +90,9 @@ Please feel free to reach out to us in case of any further queries. We would be 
 
 We appreciate your Business with Apttus.
 
-SELECT Id, Name, CreatedDate, Apttus_Config2__Status__c, Approval_Status__c
-FROM Apttus_Config2__ProductConfiguration__c
-WHERE (Apttus_Config2__BusinessObjectId__c = :tmpVar1
-    AND Apttus_Config2__Status__c != :tmpVar2
-    AND (Approval_Status__c != :tmpVar3 OR Approval_Status__c != NULL))
-ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNzU4MDQ4LC01MjQ4NDgyMzUsMjA2NT
+eyJoaXN0b3J5IjpbODc4Mzg3NjMwLC01MjQ4NDgyMzUsMjA2NT
 k4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAz
 NDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMT
 k0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5
