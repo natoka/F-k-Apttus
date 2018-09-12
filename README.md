@@ -14,7 +14,7 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 **Godard Abel** founded **SteelBrick** in **2014**, the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
 ![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
-Basiclly this genius found two compani 
+Basiclly this genius found two companies, one sold to Oracle, the other one sold to Salesforce, when he building steelbrick, he find someone from BMI, others from Apttus, that's why SB looks so matunity, even though just two years, because  
 My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge CPQ marketing demands.
 
 # Culture and work philosophy
@@ -91,7 +91,7 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDAxNjg2Niw0NDA5ODM3MjksLTE3NT
+eyJoaXN0b3J5IjpbMjAyODUxMzgyMSw0NDA5ODM3MjksLTE3NT
 Y3NjU4MDEsLTE3NTE4NjM0ODYsLTUyNDg0ODIzNSwyMDY1OTg4
 OTAxLC0xNzMzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NT
 A2LDQ0Mjk1NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQz
