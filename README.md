@@ -1,6 +1,8 @@
 # F**k Apttus
 > This is only my personal opinion, not related to the company I'd worked (PwC) or working (EF).
-> The driving force for me to set up this article is, DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers, I'd paid a lot.
+> The driving force for me to set up this article is, 
+> DON'T MAKE THE WRONG DECISION in CPQ AGAIN for all the Salesforcers,
+> I'd paid a lot.
 
 ## Introduction
 >Some of the history of CPP -> CPQ history.
@@ -92,11 +94,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjcwNTQsNDQwOTgzNzI5LC0xNzU2Nz
-Y1ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgyMzUsMjA2NTk4ODkw
-MSwtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNi
-w0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAy
-NjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1Nj
-U2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2
-NV19
+eyJoaXN0b3J5IjpbMTIyNzY3MTQ5Niw0NDA5ODM3MjksLTE3NT
+Y3NjU4MDEsLTE3NTE4NjM0ODYsLTUyNDg0ODIzNSwyMDY1OTg4
+OTAxLC0xNzMzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NT
+A2LDQ0Mjk1NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQz
+MDI2MTAsNzUwODI0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLD
+U2NTY4Mjc0Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQw
+NTY1XX0=
 -->
