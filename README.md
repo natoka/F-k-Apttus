@@ -38,7 +38,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year experienced developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can wait or not, the  feedback from Apttus is "Sorry, and appreciate your understanding", what the f**k, is 2018 now.
 6. Lighting Ready isn't meaning Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
-7. Inconsistance namespace, you feels like the product been build by some temporature contractors.
+7. Inconsistency namespace, you feel like the product been build by some temperature contractors.
 ![enter image description here](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE)
 If you see "the other company" product: you can feel the product has been very good design and quality assurance, like Salesforce objects, the design no more than or less, which good naming convention![enter image description here](https://lh3.googleusercontent.com/fqUf73VCYp00IQU7Wsc6-c2kAjUxkNMH2VvUs9Brsl2SXFSd2_XUgVWFSs69nhWNeYZ-t3uPE91l)
 
@@ -98,7 +98,7 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzgzMTE1NSwyMTQxNTkzMzY3LDIxNj
+eyJoaXN0b3J5IjpbLTY4MzY3MjE0MiwyMTQxNTkzMzY3LDIxNj
 k5NjY1Miw0NDA5ODM3MjksLTE3NTY3NjU4MDEsLTE3NTE4NjM0
 ODYsLTUyNDg0ODIzNSwyMDY1OTg4OTAxLC0xNzMzNzMxMzg4LC
 0xNjYwMjE4MDgwLC0yMTQ2MDM0NTA2LDQ0Mjk1NDM0LC0yMTAy
