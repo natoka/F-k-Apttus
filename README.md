@@ -14,7 +14,8 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 **Godard Abel** founded **SteelBrick** in **2014**, the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
 ![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
-Basiclly this genius found two companies, one sold to Oracle, the other one sold to Salesforce, when he building steelbrick, he find someone from BMI, others from Apttus, that's why SB looks so matunity, even though just two years, because  
+Basically, this genius found two companies, one sold to Oracle, the other one sold to Salesforce when he building steelbrick, he finds someone from BMI, others from Apttus, that's why SB looks so maturity, even though just two years, because "Stands on the shoulders of giants".
+
 My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge CPQ marketing demands.
 
 # Culture and work philosophy
@@ -91,11 +92,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUxMzgyMSw0NDA5ODM3MjksLTE3NT
-Y3NjU4MDEsLTE3NTE4NjM0ODYsLTUyNDg0ODIzNSwyMDY1OTg4
-OTAxLC0xNzMzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NT
-A2LDQ0Mjk1NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQz
-MDI2MTAsNzUwODI0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLD
-U2NTY4Mjc0Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQw
-NTY1XX0=
+eyJoaXN0b3J5IjpbLTY4MjcwNTQsNDQwOTgzNzI5LC0xNzU2Nz
+Y1ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgyMzUsMjA2NTk4ODkw
+MSwtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNi
+w0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAy
+NjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1Nj
+U2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEwNiwtMTQ0Njg0MDU2
+NV19
 -->
