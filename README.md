@@ -39,7 +39,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can wait or not, the  feedback from Apttus is "Sorry, and appreciate your understanding", what the f**k, is 2018 now.
 6. Lighting Ready isn't meaning Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
 7. Inconsistency namespace, you feel like the product been build by some temperature contractors
-![](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE)
+![](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE =250x250)
 If you see "the other company" product: you can feel the product has been very good design and quality assurance, like Salesforce objects, the design no more than or less, which good naming convention
 ![](https://lh3.googleusercontent.com/fqUf73VCYp00IQU7Wsc6-c2kAjUxkNMH2VvUs9Brsl2SXFSd2_XUgVWFSs69nhWNeYZ-t3uPE91l)
 
@@ -99,11 +99,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTAxMzY2Niw3MDEyNTg5NDYsMjE0MT
-U5MzM2NywyMTY5OTY2NTIsNDQwOTgzNzI5LC0xNzU2NzY1ODAx
-LC0xNzUxODYzNDg2LC01MjQ4NDgyMzUsMjA2NTk4ODkwMSwtMT
-czMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNiw0NDI5
-NTQzNCwtMjEwMjc5NjAwNyw0MDcxOTIxMTYsMTk0MzAyNjEwLD
-c1MDgyNDk0NiwtNjgzNDU3NzIwLDUyNTAyNjI5Miw1NjU2ODI3
-NDJdfQ==
+eyJoaXN0b3J5IjpbNTg5MzQ2ODk3LDEzNjUwMTM2NjYsNzAxMj
+U4OTQ2LDIxNDE1OTMzNjcsMjE2OTk2NjUyLDQ0MDk4MzcyOSwt
+MTc1Njc2NTgwMSwtMTc1MTg2MzQ4NiwtNTI0ODQ4MjM1LDIwNj
+U5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYw
+MzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LD
+E5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYy
+OTJdfQ==
 -->
