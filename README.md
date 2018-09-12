@@ -13,10 +13,10 @@ Latest Release: 7/22/2015, after that BMI leave Force.com Platform.
 
 **Apttus** founded in **2006**, Apttus is the category-defining Quote-to-Cash software company that drives the vital business process between the buyer’s interest in a purchase and the realization of revenue.
 
-**Godard Abel** founded **SteelBrick** in **2014**, the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
+**Godard Abel** founded **SteelBrick** in **2014**(two years after BMI sold to Oracle), the global team from 5 to 200 employees and increased bookings by 37x in less than 2 years. Salesforce acquired SteelBrick on **2/1/16** ($400M+), now called Salesforce CPQ
 ![Godard Abel](https://media.licdn.com/dms/image/C4E03AQHJCbLb0BaCxA/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=4Gf8tsWFgol6aWk5QzM_uWsUNBlsUcofuSmB2I5tX5E)
 
-Basically, this genius found two companies, one sold to Oracle, the other one sold to Salesforce when he building steelbrick, he finds someone from BMI, others from Apttus, that's why SB looks so maturity, even though just two years, because "Stands on the shoulders of giants".
+Basically, this genius found two CPQ(CPP) companies, one sold to Oracle, the other one sold to Salesforce when he building steelbrick, he finds someone from BMI, others from Apttus, that's why SB looks so maturity, even though just two years, because "Stands on the shoulders of giants".
 
 My strong feeling after my 4 years worked with Apttus, if I have a choice I won't work with Apttus for a second project, unfortunately, I have to work for them one by one as the huge CPQ marketing demands.
 
@@ -94,11 +94,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzY3MTQ5Niw0NDA5ODM3MjksLTE3NT
-Y3NjU4MDEsLTE3NTE4NjM0ODYsLTUyNDg0ODIzNSwyMDY1OTg4
-OTAxLC0xNzMzNzMxMzg4LC0xNjYwMjE4MDgwLC0yMTQ2MDM0NT
-A2LDQ0Mjk1NDM0LC0yMTAyNzk2MDA3LDQwNzE5MjExNiwxOTQz
-MDI2MTAsNzUwODI0OTQ2LC02ODM0NTc3MjAsNTI1MDI2MjkyLD
-U2NTY4Mjc0Miw2NjI5NjA4OTUsNTYwMzM4MTA2LC0xNDQ2ODQw
-NTY1XX0=
+eyJoaXN0b3J5IjpbNzU0MjA3MjEwLDQ0MDk4MzcyOSwtMTc1Nj
+c2NTgwMSwtMTc1MTg2MzQ4NiwtNTI0ODQ4MjM1LDIwNjU5ODg5
+MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MD
+YsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMw
+MjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNT
+Y1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1
+NjVdfQ==
 -->
