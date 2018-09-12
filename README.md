@@ -41,8 +41,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 7. Inconsistance namespace 
 ![enter image description here](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE)
 
-If you see "the other company" product:
-
+If you see "the other company" product: you can feel the product has been very good designed and quality assurance, like Salesforce objects, the desgign no more than or less![enter image description here](https://lh3.googleusercontent.com/fqUf73VCYp00IQU7Wsc6-c2kAjUxkNMH2VvUs9Brsl2SXFSd2_XUgVWFSs69nhWNeYZ-t3uPE91l)
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
@@ -100,11 +99,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTU5MzM2NywyMTY5OTY2NTIsNDQwOT
-gzNzI5LC0xNzU2NzY1ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgy
-MzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MC
-wtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcx
-OTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLD
-UyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEw
-Nl19
+eyJoaXN0b3J5IjpbNTEwODA0NjE0LDIxNDE1OTMzNjcsMjE2OT
+k2NjUyLDQ0MDk4MzcyOSwtMTc1Njc2NTgwMSwtMTc1MTg2MzQ4
+NiwtNTI0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLT
+E2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3
+OTYwMDcsNDA3MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLT
+Y4MzQ1NzcyMCw1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5
+NV19
 -->
