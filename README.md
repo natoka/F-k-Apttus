@@ -38,6 +38,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 4. Exception and errors pop up in the screen, the developers is very experienced limited (probably 1. 2 year experienced developers), even don't know how to handle exceptions, there is no reason you popup exception to the users, at least catch them and pop in the debug log.
 5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can wait or not, the  feedback from Apttus is "Sorry, and appreciate your understanding", what the f**k, is 2018 now.
 6. Lighting Ready isn't meaning Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
+7. Inconsistance namespace 
 
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
@@ -95,11 +96,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjE3NDM4NiwyMTY5OTY2NTIsNDQwOT
-gzNzI5LC0xNzU2NzY1ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgy
-MzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MC
-wtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcx
-OTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLD
-UyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEw
-Nl19
+eyJoaXN0b3J5IjpbLTIxNDU0NDUxODcsMjE2OTk2NjUyLDQ0MD
+k4MzcyOSwtMTc1Njc2NTgwMSwtMTc1MTg2MzQ4NiwtNTI0ODQ4
+MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwOD
+AsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3
+MTkyMTE2LDE5NDMwMjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMC
+w1MjUwMjYyOTIsNTY1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgx
+MDZdfQ==
 -->
