@@ -46,9 +46,10 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 4. Apttus using Dynamic CRM for their customer service, no more Salesforce Service cloud, the case number is Case:**CAS-06124-W0X6D3**, when you contacting with Apttus support, they ask, what's your case number, then "Humm..... CAS....", if you can tell them the correct case number you are genius, what's the f**k case number, Apttus actually saying "Stupid!! DON'T open case!!".
 5. Debug Log, debug log is everything for Salesforce issue debugging, as Apttus is managed packages, there is no way to get any debug log from your org side, and all the issue fix all rely on Apttus, you can't do anything.
 6. Apttus asked you send emails to documentation@apttus.com if you have any question or need help, but once you send them an email, you will get the following auto-reply.  "Stupid!! DON'T send email!!".
+![enter image description here](https://lh3.googleusercontent.com/9eSDGd94idGhX08qaMC3PqV5FlemjgNG45TX_5N3l2JRTMBvASSjptgejB1sx2krJAKqm_Ic_syb)
 ![enter image description here](https://lh3.googleusercontent.com/b0a4YSgSFfb-MTltWeByrmLNDtv7_jcb-yHrOp_wfy_hR7-FIxONNqnma6MeDBjQU6yQnOIeRNzU)
 
-7. Can you feel the heart of the customer service? the only way customer service make the customer happy is response fast and fix the issue ASAP, not the pretended words, are you feel happy with the following comments??
+8. Can you feel the heart of the customer service? the only way customer service make the customer happy is response fast and fix the issue ASAP, not the pretended words, are you feel happy with the following comments??
 
 NOT AT ALL for me.
 ```
@@ -94,11 +95,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2OTk2NjUyLDQ0MDk4MzcyOSwtMTc1Nj
-c2NTgwMSwtMTc1MTg2MzQ4NiwtNTI0ODQ4MjM1LDIwNjU5ODg5
-MDEsLTE3MzM3MzEzODgsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MD
-YsNDQyOTU0MzQsLTIxMDI3OTYwMDcsNDA3MTkyMTE2LDE5NDMw
-MjYxMCw3NTA4MjQ5NDYsLTY4MzQ1NzcyMCw1MjUwMjYyOTIsNT
-Y1NjgyNzQyLDY2Mjk2MDg5NSw1NjAzMzgxMDYsLTE0NDY4NDA1
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTY0NjE3NDM4NiwyMTY5OTY2NTIsNDQwOT
+gzNzI5LC0xNzU2NzY1ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgy
+MzUsMjA2NTk4ODkwMSwtMTczMzczMTM4OCwtMTY2MDIxODA4MC
+wtMjE0NjAzNDUwNiw0NDI5NTQzNCwtMjEwMjc5NjAwNyw0MDcx
+OTIxMTYsMTk0MzAyNjEwLDc1MDgyNDk0NiwtNjgzNDU3NzIwLD
+UyNTAyNjI5Miw1NjU2ODI3NDIsNjYyOTYwODk1LDU2MDMzODEw
+Nl19
 -->
