@@ -39,9 +39,9 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 5. The **GREAT product team**, every time the success manager and supports says report to the product team and wait for the response, then NEVER response during my 4 years only 1 or 2 bugs been fixed, good luck for you rely on their product team, No matter in production, users need the feature every day, you can wait or not, the  feedback from Apttus is "Sorry, and appreciate your understanding", what the f**k, is 2018 now.
 6. Lighting Ready isn't meaning Lightning Experience, Apttus never got chance to be Lightning Experience, if you worked or developed a product with 15 years old, you know how hard to make the changes unless you refactor the whole product which will cost much, if they are that's Steelbrick, now Salesforce CPQ (Now, you know why Salesforce acquisition Steelbrick).
 7. Inconsistency namespace, you feel like the product been build by some temperature contractors
-![](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE)  
+![](https://github.com/natoka/F-k-Apttus/blob/master/images/apttus%20objects.png?raw=true)  
   If you see "the other company" product: you can feel the product has been very good design and quality assurance, like Salesforce objects, the design no more than or less, which good naming convention
-![](/images/cpq objects.png)
+![](https://raw.githubusercontent.com/natoka/F-k-Apttus/master/images/cpq%20objects.png)
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
 2. The response is very slow, any emergency, Production issues all rely on the in-house team, and if you don't have an experience in-house Salesforce team, then good luck for you.
@@ -99,11 +99,11 @@ ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDIyNDMzMiwtMjEzNzk3MzE0NiwtNT
-kzMDY3MDA5LC03MTA4NDI2MDgsMTA4MjI0NzU1MCwxNTkxMzQ3
-ODc2LDEzNjUwMTM2NjYsNzAxMjU4OTQ2LDIxNDE1OTMzNjcsMj
-E2OTk2NjUyLDQ0MDk4MzcyOSwtMTc1Njc2NTgwMSwtMTc1MTg2
-MzQ4NiwtNTI0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzOD
-gsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIx
-MDI3OTYwMDddfQ==
+eyJoaXN0b3J5IjpbMTM1OTY2MTQzMSwtNDYwMjI0MzMyLC0yMT
+M3OTczMTQ2LC01OTMwNjcwMDksLTcxMDg0MjYwOCwxMDgyMjQ3
+NTUwLDE1OTEzNDc4NzYsMTM2NTAxMzY2Niw3MDEyNTg5NDYsMj
+E0MTU5MzM2NywyMTY5OTY2NTIsNDQwOTgzNzI5LC0xNzU2NzY1
+ODAxLC0xNzUxODYzNDg2LC01MjQ4NDgyMzUsMjA2NTk4ODkwMS
+wtMTczMzczMTM4OCwtMTY2MDIxODA4MCwtMjE0NjAzNDUwNiw0
+NDI5NTQzNF19
 -->
