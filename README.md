@@ -41,8 +41,7 @@ My strong feeling after my 4 years worked with Apttus, if I have a choice I won'
 7. Inconsistency namespace, you feel like the product been build by some temperature contractors
 ![](https://lh3.googleusercontent.com/WUDj_0SDlb1zWO62lTY8Z5ET4SJzv3zo1tFX9fc2cyH2hSTAkWcxR2TqlrwdoJdshdz4ZybF1TrE)  
   If you see "the other company" product: you can feel the product has been very good design and quality assurance, like Salesforce objects, the design no more than or less, which good naming convention
-![CPQ objects](/images/cpq objects.png)
-
+![](/images/cpq objects.png)
 # Customer Service
 1. Everything is a price, without a premier support you can't get anything helps, unfortunately, because of the product terrible quality you pretty relay on their services
 2. The response is very slow, any emergency, Production issues all rely on the in-house team, and if you don't have an experience in-house Salesforce team, then good luck for you.
@@ -98,12 +97,13 @@ AND Apttus_Config2__Status__c != :tmpVar2
 ORDER BY CreatedDate DESC NULLS FIRST LIMIT 1
 ```
 if you have more than 200K records in the Apttus_Config2__ProductConfiguration__c object, good luck for you.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc5NzMxNDYsLTU5MzA2NzAwOSwtNz
-EwODQyNjA4LDEwODIyNDc1NTAsMTU5MTM0Nzg3NiwxMzY1MDEz
-NjY2LDcwMTI1ODk0NiwyMTQxNTkzMzY3LDIxNjk5NjY1Miw0ND
-A5ODM3MjksLTE3NTY3NjU4MDEsLTE3NTE4NjM0ODYsLTUyNDg0
-ODIzNSwyMDY1OTg4OTAxLC0xNzMzNzMxMzg4LC0xNjYwMjE4MD
-gwLC0yMTQ2MDM0NTA2LDQ0Mjk1NDM0LC0yMTAyNzk2MDA3LDQw
-NzE5MjExNl19
+eyJoaXN0b3J5IjpbLTQ2MDIyNDMzMiwtMjEzNzk3MzE0NiwtNT
+kzMDY3MDA5LC03MTA4NDI2MDgsMTA4MjI0NzU1MCwxNTkxMzQ3
+ODc2LDEzNjUwMTM2NjYsNzAxMjU4OTQ2LDIxNDE1OTMzNjcsMj
+E2OTk2NjUyLDQ0MDk4MzcyOSwtMTc1Njc2NTgwMSwtMTc1MTg2
+MzQ4NiwtNTI0ODQ4MjM1LDIwNjU5ODg5MDEsLTE3MzM3MzEzOD
+gsLTE2NjAyMTgwODAsLTIxNDYwMzQ1MDYsNDQyOTU0MzQsLTIx
+MDI3OTYwMDddfQ==
 -->
